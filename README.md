@@ -1,16 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=stanleyweche.stanleyweche" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Stanley!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Stanley!;+JKUAT+IT+student" />
 </h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 <br/>
 
 <div align="center">
   I’m currently working on **an innovative Android idea** <br>
-  I’m currently learning **Docker, Supabase, AWS** <br>
-  Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/stanleyweche/stanleyweche/issues)** <br>
-  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+  I’m currently learning **web development** <br>
+   ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 </div> 
 
 <div align="center">
@@ -31,10 +30,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,python,pycharm,git,github,jupyter,html,css,anaconda" /> 
+  <img src="https://skillicons.dev/icons?i=vscode,python,pycharm,git,github,django,pytorch,opencv,html,css,anaconda" /> 
   <br>
-  **Kali Linux Tools:** Nmap, Wireshark
-</div>
+ </div>
 <br/>
 
 <hr/>
@@ -59,10 +57,7 @@
 </div>
 
 <br/><br/><hr/><br/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+for+visiting+my+github+profile" />
 
-<div align="center">
-  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
-    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-  </a>
-</div>
 <br/>
