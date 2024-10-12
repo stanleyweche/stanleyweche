@@ -16,12 +16,7 @@
   <a href="mailto:stanleyow09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/kipkoech-linus-43764226b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://stanleyweche.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
+
 </div>
 
 <hr/> 
@@ -30,7 +25,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,python,pycharm,git,github,django,pytorch,opencv,html,css,anaconda" /> 
+  <img src="https://skillicons.dev/icons?i=vscode,python,pycharm,git,github,django,pandas,matplotlib,html,css,anaconda" /> 
   <br>
  </div>
 <br/>
