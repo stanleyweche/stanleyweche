@@ -8,7 +8,7 @@
 
 <div align="center">
   I’m currently working on **an innovative Android idea** <br>
-  I’m currently learning **web development** <br>
+  I’m currently learning **web development and machine learning** <br>
    ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 </div> 
 
